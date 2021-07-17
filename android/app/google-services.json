@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104223560733",
+    "project_id": "egdaily-c9963",
+    "storage_bucket": "egdaily-c9963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104223560733:android:f179bc0073b9693b8e22f4",
+        "android_client_info": {
+          "package_name": "com.example.egdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104223560733-5vpm2un7m5sphf4pj3m2hnrv7maohaiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8FG6qGwRygcuLejtNgsnk3bSOWBlLAmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104223560733-5vpm2un7m5sphf4pj3m2hnrv7maohaiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
